@@ -1,0 +1,22 @@
+{
+  "name": "mrsscroll",
+  "repo": "abstudio/mrsscroll",
+  "description": "Simple scroll customizer",
+  "version": "0.1.0",
+  "keywords": ["scroll"],
+  "dependencies": {},
+  "scripts": [
+    "src/mrsscroll.js"
+  ],
+  "styles": [
+    "src/mrsscroll.css"
+  ],
+  "license": "MIT",
+  "remotes": [
+    "github"
+  ],
+  "tags": [
+    "widget",
+    "module"
+  ]
+}
